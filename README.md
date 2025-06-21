@@ -4,7 +4,7 @@ This is my solution to a landing page challenge from [Frontend Mentor](https://w
 
 ## 🔗 Live Demo
 
-[🔎 View Live Website](https://your-username.github.io/your-repo-name)
+[🔎 View Live Website]( https://naadix.github.io/Insure-landing-page/)
 
 ## 📸 Screenshot
 
